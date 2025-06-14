@@ -7,4 +7,5 @@ Profissão Cientista de Dados M4 - Tarefa aulas 06 a 08 --> Draft requests for v
 Mod5Ex_aulas_01a03 --> Health Care Project <br>
 Mod5Ex_aulas_04a05 --> Credit rating / Sales project <br>
 mod06 Tarefa 2 --> Health Care Project <br>
-mod06 tarefa 1 --> Health Care Project
+mod06 tarefa 1 --> Health Care Project <br>
+mod06 tarefa 3 --> Health Care Project
