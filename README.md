@@ -1,11 +1,28 @@
-# Projects
-Mod03Ex01 - Python basico.ipynb --> Basic python project <br>
-mod03ex02 instrucao --> Basic python project <br>
-Mod04 - Tarefa aula 01 e 02 --> Earth's average surface temperature project <br>
-Mod04_Tarefa_aula_03_a_05_(base) (1)--> Entrance exam project <br>
-Profissão Cientista de Dados M4 - Tarefa aulas 06 a 08 --> Draft requests for verification of limits <br>
-Mod5Ex_aulas_01a03 --> Health Care Project <br>
-Mod5Ex_aulas_04a05 --> Credit rating / Sales project <br>
-mod06 Tarefa 2 --> Health Care Project <br>
-mod06 tarefa 1 --> Health Care Project <br>
-mod06 tarefa 3 --> Health Care Project
+# 📊 Data-Driven Insights in Healthcare & Sales
+
+This repository contains a collection of data analysis and machine learning projects focused on generating actionable insights in the **healthcare** and **sales** domains. The objective is to transform raw data into strategic information through visualization, statistical exploration, and predictive modeling.
+
+---
+
+## 🚀 Project Overview
+
+The main goal of these projects is to demonstrate how data science techniques can be applied to support business decisions in real-world contexts. From cleaning and wrangling raw datasets to building dashboards and predictive models, this work covers the entire data pipeline.
+
+---
+
+## 🧰 Technologies Used
+
+- **Python** (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn)
+- **Jupyter Notebooks**
+- **Power BI** (for interactive dashboard creation)
+- **Git & GitHub** (for version control)
+
+---
+
+## 💡 Key Highlights
+
+- ✅ Built interactive dashboards for healthcare and sales KPIs  
+- ✅ Applied data cleaning, transformation, and feature engineering  
+- ✅ Developed predictive models using regression and classification techniques  
+- ✅ Used data visualization to communicate complex findings clearly  
+- ✅ Focused on business interpretation and storytelling
